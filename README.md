@@ -16,6 +16,8 @@ Hi there! I'm **strangexstark** a student passionate about programming and techn
 - **Tools**: Git, VSCode
 
 ### 🔗 Connect With Me
+- [Instagram](https://www.instagram.com/strangexstark_)
+- [Facebook](https://www.facebook.com/strangexstark)
 - [Twitter](https://x.com/strangexstark)
 
 
