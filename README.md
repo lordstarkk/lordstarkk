@@ -30,12 +30,12 @@ Check out my projects and blog on my portfolio:
 
 
 ### **Programming Languages**  
-- **Proficient**: Python, JavaScript, HTML, CSS  
-- **Learning**: C++, Java  
+- **Proficient**: Python, JavaScript, HTML, CSS
+- **Learning**: C++(Currently, Java(In future)
 
 ### **Tools & Frameworks**  
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Flask, Node.js *(Learning)*  
+- **Backend**: Django, Node.js *(Learning)*  
 - **Other Tools**: Git, VSCode, Linux  
 
 ---
