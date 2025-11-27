@@ -1,80 +1,134 @@
-# Welcome to My GitHub Profile! 👋  
+<h1 align="center">Nirbhay | StrangeStark</h1>
 
-Hi there! I'm **Nirbhay** aka **strangexstark**, a student passionate about programming and technology. I'm always learning and building new projects to enhance my skills, especially in **Python**, **web development**, and **AI**.  
+<p align="center">
+  Future IITian · Startup-Focused Developer<br/>
+  AI · Automation · Web Systems
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lordstarkk&label=views&style=flat&color=0f0f0f" />
+  <img src="https://img.shields.io/github/followers/lordstarkk?style=flat&color=0f0f0f" />
+  <img src="https://img.shields.io/github/stars/lordstarkk?style=flat&color=0f0f0f" />
+</p>
 
-## 🚀 **About Me**  
-- 🔭 Currently working on improving my skills in **Python** and **full-stack web development**.  
-- 🌱 Learning **C++** to expand my programming knowledge.  
-- 🤖 Exploring **machine learning** and **AI** to build intelligent applications.  
-- 👯 Looking to collaborate on open-source projects and learn from the community.  
-- 💬 Ask me about **Python**, **AI**, **Web Development**, or anything tech-related!  
-
----
-
-## 🌍 **My Portfolio**  
-Check out my projects and blog on my portfolio:  
-🔗 [My Portfolio](https://lordstarkk.github.io/strangexstarkWeb/)
-
----
-
-## 🛠️ **Technologies & Tools** 
-## ⚡ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
-
-### **Programming Languages**  
-- **Proficient**: Python, JavaScript, HTML, CSS
-- **Learning**: C++(Currently, Java(In future)
-
-### **Tools & Frameworks**  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Django, Node.js *(Learning)*  
-- **Other Tools**: Git, VSCode, Linux  
-
----
-
-## 📊 **GitHub Stats**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordstarkk&layout=compact&theme=radical)  
-
----
-
-## 🌟 **Featured Projects**  
-
-🔹 **[JARVIS 1.1 – AI Assistant](https://github.com/lordstarkk/JARIVIS-1.1-PYTHON-AI-ASSISTANT)**  
-🧠 A Python-based AI assistant that automates tasks like checking time, opening websites, performing calculations, and sending emails.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0f0f0f?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/C++-0f0f0f?style=flat&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Linux-0f0f0f?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/JavaScript-0f0f0f?style=flat&logo=javascript" />
+</p>
 
 ---
 
 
+### 🔥 What I'm Doing
 
-## 🔗 **Connect With Me**  
-📸 [Instagram](https://www.instagram.com/strangexstark_)  
-📘 [Facebook](https://www.facebook.com/strangexstark)  
-🐦 [Twitter](https://x.com/strangexstark)  
-📧**Email**: [starkforbusiness1@gmail.com](mailto:starkforbusiness1@gmail.com)
+- Building **NYRON** — a modular, next-gen AI assistant system  
+- Developing **scalable Django backends & APIs**  
+- Designing **automation systems on Linux**  
+- Training seriously for **IIT + core CS mastery (DSA, OS, Networks)**
 
----
-
-## 🎯 **What I'm Learning Now**  
-- 📌 **C++ Basics** – Learning object-oriented programming, data structures, and algorithms.  
-- 🔥 **Web Development** – Improving frontend and backend skills.  
-- 🤖 **Machine Learning** – Studying neural networks and AI models.  
 
 ---
 
-## 💡 **Fun Fact**  
-> "Sometimes you gotta run before you can walk." – Tony Stark 🦾
+### 🚀 Featured Projects
 
-I love working on projects that challenge my learning journey and push me forward. If you have a cool idea, let’s collaborate!  
+- 🧠 **NYRON** — Modular AI assistant system *(Private / In Progress)*  
+- 🌐 **NirbhaysLab** — Developer portfolio & future blog platform  
+- 🔐 **Password Manager** — Secure local credential manager  
+- 🌦️ **Weather App** — API-based real-time weather system  
+
+
+### 🧠 Focus Areas
+
+- AI + automation systems  
+- Backend + APIs (Django, REST)  
+- Linux workflow + tooling  
+- DSA & problem solving  
 
 ---
 
-### 🚀 **Let's Build Something Amazing Together!**  
-Feel free to explore my repositories, contribute to my projects, or just say hi. Always excited to learn and grow! 😊  
+### 🌐 Links
+
+- 🌍 Website: https://nirbhayslab-dev.netlify.app  
+- 💻 GitHub: https://github.com/lordstarkk  
+- 📷 Tech IG: https://instagram.com/strangesyntax  
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lordstarkk&show_icons=true&hide_title=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordstarkk&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lordstarkk&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+<details>
+  <summary><b>⚙️ Full Tech Stack (open if you care)</b></summary>
+  <br/>
+
+  <b>Languages</b>  
+  <img src="https://img.shields.io/badge/Python-0f0f0f?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/C++-0f0f0f?style=flat&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/JavaScript-0f0f0f?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-0f0f0f?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-0f0f0f?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/Bash-0f0f0f?style=flat&logo=gnu-bash" />
+
+  <b>Frameworks & Libraries</b>  
+  <img src="https://img.shields.io/badge/Django-0f0f0f?style=flat&logo=django" />
+  <img src="https://img.shields.io/badge/NumPy-0f0f0f?style=flat&logo=numpy" />
+  <img src="https://img.shields.io/badge/PyQt-0f0f0f?style=flat" />
+  <img src="https://img.shields.io/badge/REST%20API-0f0f0f?style=flat" />
+
+  <b>AI / ML</b>  
+  <img src="https://img.shields.io/badge/Scikit--Learn-0f0f0f?style=flat&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/OpenCV-0f0f0f?style=flat&logo=opencv" />
+  <img src="https://img.shields.io/badge/TensorFlow-0f0f0f?style=flat&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/PyTorch-0f0f0f?style=flat&logo=pytorch" />
+  <img src="https://img.shields.io/badge/Pandas-0f0f0f?style=flat&logo=pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-0f0f0f?style=flat" />
+
+  <b>Databases</b>  
+  <img src="https://img.shields.io/badge/SQLite-0f0f0f?style=flat&logo=sqlite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f0f0f?style=flat&logo=postgresql" />
+
+  <b>Cloud / Hosting</b>  
+  <img src="https://img.shields.io/badge/AWS-0f0f0f?style=flat&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Firebase-0f0f0f?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/Vercel-0f0f0f?style=flat&logo=vercel" />
+  <img src="https://img.shields.io/badge/Netlify-0f0f0f?style=flat&logo=netlify" />
+
+  <b>Security / Auth</b>  
+  <img src="https://img.shields.io/badge/JWT-0f0f0f?style=flat" />
+  <img src="https://img.shields.io/badge/OAuth-0f0f0f?style=flat" />
+  <img src="https://img.shields.io/badge/bcrypt-0f0f0f?style=flat" />
+  <img src="https://img.shields.io/badge/HTTPS-0f0f0f?style=flat" />
+
+  <b>Performance / Backend Power</b>  
+  <img src="https://img.shields.io/badge/Redis-0f0f0f?style=flat&logo=redis" />
+  <img src="https://img.shields.io/badge/Celery-0f0f0f?style=flat" />
+  <img src="https://img.shields.io/badge/Gunicorn-0f0f0f?style=flat" />
+  <img src="https://img.shields.io/badge/Nginx-0f0f0f?style=flat&logo=nginx" />
+
+  <b>Tools & OS</b>  
+  <img src="https://img.shields.io/badge/Linux-0f0f0f?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/Git-0f0f0f?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-0f0f0f?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/VS%20Code-0f0f0f?style=flat&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Postman-0f0f0f?style=flat&logo=postman" />
+  <img src="https://img.shields.io/badge/Docker-0f0f0f?style=flat&logo=docker" />
+
+  <b>Hardware / IoT</b>  
+  <img src="https://img.shields.io/badge/Arduino-0f0f0f?style=flat&logo=arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-0f0f0f?style=flat&logo=raspberry-pi" />
+  <img src="https://img.shields.io/badge/RP%20Pico-0f0f0f?style=flat" />
+  <img src="https://img.shields.io/badge/MicroPython-0f0f0f?style=flat" />
+
+</details>
