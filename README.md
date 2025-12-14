@@ -1,8 +1,8 @@
 <h1 align="center">Nirbhay | StrangeStark</h1>
 
 <p align="center">
-  Future IITian · Startup-Focused Developer<br/>
-  AI · Automation · Web Systems
+  Student · Developer · Builder<br/>
+  Interested in AI, automation,Web Dev, and backend systems
 </p>
 
 <p align="center">
@@ -20,35 +20,34 @@
 
 ---
 
+### What I’m Working On
 
-### 🔥 What I'm Doing
-
-- Building **NYRON** — a modular, next-gen AI assistant system  
-- Developing **scalable Django backends & APIs**  
-- Designing **automation systems on Linux**  
-- Training seriously for **IIT + core CS mastery (DSA, OS, Networks)**
-
+- Building **NYRON** — a personal AI/automation system (long-term project)
+- Learning **Django & backend development**
+- Exploring **Linux-based workflows and automation**
+- Preparing for **IIT-level problem solving & CS fundamentals**
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
-- 🧠 **NYRON** — Modular AI assistant system *(Private / In Progress)*  
-- 🌐 **NirbhaysLab** — Developer portfolio & future blog platform  
-- 🔐 **Password Manager** — Secure local credential manager  
-- 🌦️ **Weather App** — API-based real-time weather system  
-
-
-### 🧠 Focus Areas
-
-- AI + automation systems  
-- Backend + APIs (Django, REST)  
-- Linux workflow + tooling  
-- DSA & problem solving  
+- 🧠 **NYRON** — AI assistant experiments *(private, in progress)*
+- 🌐 **NirbhaysLab** — personal site & future blog
+- 🔐 **Password Manager** — local credential manager
+- 🌦️ **Weather App** — API-based weather application
 
 ---
 
-### 🌐 Links
+### Areas of Interest
+
+- Backend development & APIs  
+- Automation & scripting  
+- Data structures & problem solving  
+- Linux systems  
+
+---
+
+### Links
 
 - 🌍 Website: https://nirbhayslab-dev.netlify.app  
 - 💻 GitHub: https://github.com/lordstarkk  
@@ -56,7 +55,7 @@
 
 ---
 
-### 📊 Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lordstarkk&show_icons=true&hide_title=true&theme=tokyonight" height="150" />
@@ -66,6 +65,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lordstarkk&theme=tokyonight&hide_border=true" height="150" />
 </p>
+
+
 
 ---
 
