@@ -1,4 +1,4 @@
-<h1 align="center">Nirbhay (StrangeStark)</h1>
+<h1 align="center">Nirbhay K. (StrangeStark)</h1>
 
 <p align="center">
   Systems Builder · Backend · Automation · WebDev · AI/ML
