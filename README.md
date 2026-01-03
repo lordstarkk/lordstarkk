@@ -1,5 +1,4 @@
 <h1 align="center">Nirbhay K. (StrangeStark)</h1>
-
 <p align="center">
   Systems Builder · Backend · Automation · WebDev · AI/ML
 </p>
@@ -87,6 +86,7 @@ NumPy · Pandas · OpenCV
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lordstarkk&show_icons=true&hide_title=true&theme=tokyonight" height="150" />
+<p align="center">  
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=nirbhayslab&theme=highcontrast)](https://git.io/streak-stats)
 </p>
